@@ -15,6 +15,6 @@ spec:
     ref: master
   values:
     image:
-      repository: stefanprodan/podinfo
-      tag: 0.4.11
+      repository: rsjostrand/podinfo
+      tag: dev-uuahfaj9
     replicaCount: 3
